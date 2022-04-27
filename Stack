@@ -1,0 +1,13 @@
+package List;
+import java.util.Stack;
+
+public class Stacks{
+   public static void main(String[] args) {
+	    Stack <String>friends = new Stack<String>();
+	  friends .add("Vat");
+    friends.add("Cat");
+	  friends.add("Rat");
+	   System.out.println(friends);
+   }
+}
+
