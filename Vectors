@@ -1,0 +1,13 @@
+package List;
+import java.util.Vector;
+
+public class Vectors{
+   public static void main(String[] args) {
+	    Vector <String>friends = new Vector<String>();
+	  friends .add("Vat");
+    friends.add("Cat");
+	  friends.add("Rat");
+	   System.out.println(friends);
+   }
+}
+
