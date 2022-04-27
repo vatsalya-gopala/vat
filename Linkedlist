@@ -1,0 +1,12 @@
+package List;
+	import java.util.*;
+
+	public class LinkedlistDemo{
+	       public static void main(String[] args) {
+	    	   LinkedList <String>friends = new LinkedList<String>();
+	    	  friends .add("Vat");
+	        friends.add("Cat");
+	    	  friends.add("Rat");
+	    	   System.out.println(friends);
+	       }
+	}
